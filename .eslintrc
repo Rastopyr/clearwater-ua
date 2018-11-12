@@ -1,6 +1,7 @@
 {
   extends: "standard",
   "rules": {
-    "node/no-deprecated-api": 1
+    "node/no-deprecated-api": 1,
+    "no-return-await": 0
   }
 }

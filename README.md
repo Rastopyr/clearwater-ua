@@ -1,6 +1,6 @@
 # ClearWaterUa
 
-ClearWaterUa is a small `node.js` script, that allow make order from your cli. This is unofficial script
+ClearWaterUa is a small package, that allow make order from your cli. This is unofficial script
 
 ## Installation
 

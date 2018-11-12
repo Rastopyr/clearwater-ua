@@ -1,0 +1,6 @@
+{
+  extends: "standard",
+  "rules": {
+    "node/no-deprecated-api": 1
+  }
+}

@@ -19,7 +19,8 @@
     "chalk": "^2.4.1",
     "hogan.js": "^3.0.2",
     "inquirer": "^6.2.0",
-    "inquirer-datepicker-prompt": "^0.4.2"
+    "inquirer-datepicker-prompt": "^0.4.2",
+    "meow": "^5.0.0"
   },
   "engines": {
     "node": ">=8.10.0"
